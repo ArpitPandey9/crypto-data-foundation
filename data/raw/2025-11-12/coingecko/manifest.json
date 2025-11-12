@@ -17,7 +17,7 @@
     "last_updated"
   ],
   "file": "data\\raw\\2025-11-12\\coingecko\\crypto_markets.parquet.zstd",
-  "sha256": "ee25df8b0995543daf0de2c99d79e76b5e031fc11b108aad89bedcbbbab22fe4",
-  "git_sha": "555afe2",
-  "created_at_utc": "2025-11-12T03:17:44.943520Z"
+  "sha256": "479dbd04b2ab65f8e24ab0376706e20df0d70180e1d75769da650e2aafade128",
+  "git_sha": "f1927c5",
+  "created_at_utc": "2025-11-12T03:44:52.563656Z"
 }
