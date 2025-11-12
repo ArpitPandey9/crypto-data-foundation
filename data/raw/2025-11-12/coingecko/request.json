@@ -1,0 +1,8 @@
+{
+  "url": "https://api.coingecko.com/api/v3/coins/markets",
+  "params": {
+    "vs_currency": "usd",
+    "ids": "bitcoin,ethereum",
+    "price_change_percentage": "24h"
+  }
+}

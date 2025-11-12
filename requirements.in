@@ -1,0 +1,7 @@
+﻿pandas
+numpy
+pyarrow
+requests
+pandera[pydantic]
+python-dateutil
+pytest

@@ -1,0 +1,23 @@
+{
+  "source": "coingecko",
+  "endpoint": "/api/v3/coins/markets",
+  "params": {
+    "vs_currency": "usd",
+    "ids": "bitcoin,ethereum",
+    "price_change_percentage": "24h"
+  },
+  "rows": 2,
+  "columns": [
+    "id",
+    "symbol",
+    "name",
+    "current_price",
+    "market_cap",
+    "total_volume",
+    "last_updated"
+  ],
+  "file": "data\\raw\\2025-11-12\\coingecko\\crypto_markets.parquet.zstd",
+  "sha256": "2b716a31fd5a73f9f2f9e41bb8386cb76323e3926183e6e6368f9cc3b00edc7d",
+  "git_sha": null,
+  "created_at_utc": "2025-11-12T03:15:41.245910Z"
+}
