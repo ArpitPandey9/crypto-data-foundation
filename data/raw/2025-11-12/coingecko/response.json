@@ -4,15 +4,15 @@
     "symbol": "btc",
     "name": "Bitcoin",
     "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-    "current_price": 103164,
+    "current_price": 103159,
     "market_cap": 2057918030170,
     "market_cap_rank": 1,
     "fully_diluted_valuation": 2057918030170,
-    "total_volume": 64373649808,
+    "total_volume": 64333697975,
     "high_24h": 106930,
     "low_24h": 102461,
-    "price_change_24h": -3682.267102309983,
-    "price_change_percentage_24h": -3.44632,
+    "price_change_24h": -3687.2369782436726,
+    "price_change_percentage_24h": -3.45097,
     "market_cap_change_24h": -70876678170.69214,
     "market_cap_change_percentage_24h": -3.32943,
     "circulating_supply": 19947578.0,
@@ -25,23 +25,23 @@
     "atl_change_percentage": 151951.98136,
     "atl_date": "2013-07-06T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2025-11-12T03:15:42.800Z",
-    "price_change_percentage_24h_in_currency": -3.4463217552753713
+    "last_updated": "2025-11-12T03:16:51.579Z",
+    "price_change_percentage_24h_in_currency": -3.450973180898611
   },
   {
     "id": "ethereum",
     "symbol": "eth",
     "name": "Ethereum",
     "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-    "current_price": 3434.67,
+    "current_price": 3435.87,
     "market_cap": 414175921293,
     "market_cap_rank": 2,
     "fully_diluted_valuation": 414175921293,
-    "total_volume": 34254446179,
+    "total_volume": 34195023426,
     "high_24h": 3629.26,
     "low_24h": 3408.35,
-    "price_change_24h": -189.61096984676715,
-    "price_change_percentage_24h": -5.23168,
+    "price_change_24h": -188.41453370420595,
+    "price_change_percentage_24h": -5.19867,
     "market_cap_change_24h": -23112502210.753784,
     "market_cap_change_percentage_24h": -5.28541,
     "circulating_supply": 120696490.0746906,
@@ -54,11 +54,11 @@
     "atl_change_percentage": 791088.68195,
     "atl_date": "2015-10-20T00:00:00.000Z",
     "roi": {
-      "times": 43.50829417786967,
+      "times": 43.5274969509091,
       "currency": "btc",
-      "percentage": 4350.829417786967
+      "percentage": 4352.74969509091
     },
-    "last_updated": "2025-11-12T03:15:35.932Z",
-    "price_change_percentage_24h_in_currency": -5.231679717340647
+    "last_updated": "2025-11-12T03:16:45.599Z",
+    "price_change_percentage_24h_in_currency": -5.198668068778387
   }
 ]
