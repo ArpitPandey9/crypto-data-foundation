@@ -29,7 +29,7 @@ This is the foundation for auditability, governance, and S&P-style research.
 ## 🧰 Prereqs
 - **Windows 10/11** with **PowerShell**
 - **Python 3.11** and **Git**
-- (Optional) **GitHub CLI** `gh`
+- (Optional) **GitHub CLI** `gh` 
 
 Check:
 ```powershell
