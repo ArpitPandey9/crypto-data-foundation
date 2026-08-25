@@ -1,1 +1,1 @@
-﻿print('hello, spine')
+print('hello, spine')

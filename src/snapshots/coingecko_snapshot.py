@@ -68,7 +68,7 @@ manifest = {
     "params": params,
     "rows": int(len(df)),
     "columns": cols,
-    "file": str(out_path.relative_to(BASE)),
+    "file": out_path.relative_to(BASE).as_posix(),
     "sha256": file_sha256,
     "git_sha": git_sha,
     "created_at_utc": UTC_NOW.isoformat().replace("+00:00", "Z"),

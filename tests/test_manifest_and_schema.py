@@ -1,4 +1,4 @@
-﻿# tests/test_manifest_and_schema.py
+# tests/test_manifest_and_schema.py
 import json, hashlib
 from pathlib import Path
 import pandas as pd
@@ -18,7 +18,9 @@ def test_manifest_and_schema():
     assert manifest_path.exists(), f"Missing manifest: {manifest_path}"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
 
-    parquet_path = BASE / manifest["file"]
+    manifest_file = manifest["file"]
+    assert "\\" not in manifest_file, "Manifest file path must use POSIX separators"
+    parquet_path = BASE / manifest_file
     assert parquet_path.exists(), f"Missing parquet: {parquet_path}"
 
     h = hashlib.sha256()

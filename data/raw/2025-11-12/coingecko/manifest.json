@@ -16,7 +16,7 @@
     "total_volume",
     "last_updated"
   ],
-  "file": "data\\raw\\2025-11-12\\coingecko\\crypto_markets.parquet.zstd",
+  "file": "data/raw/2025-11-12/coingecko/crypto_markets.parquet.zstd",
   "sha256": "479dbd04b2ab65f8e24ab0376706e20df0d70180e1d75769da650e2aafade128",
   "git_sha": "f1927c5",
   "created_at_utc": "2025-11-12T03:44:52.563656Z"
